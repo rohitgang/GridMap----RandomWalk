@@ -1,0 +1,33 @@
+# Project 3: Random Walk
+
+* Author: Rohit Gangurde
+* Class: CS121 Section 5
+* Semester: Spring 2018
+
+## Overview
+
+The program is designed to create a random walk on a grid which starts off from the bottom left corner of the screen to the top right corner of the screen.
+
+## Compiling and Using
+
+To compile, execute the following command in the main project directory:
+```
+$ javac RandomWalk.java
+```
+
+Run the compiled class with the command:
+```
+$ java RandomWalk
+```
+
+## Discussion
+
+I got the concept right and was instantly able to get the outlook of the codes I was supposed to use but what had me stuck was the overlapping of the codes with getting the right calculations. I wrote down each step/code I used in order to keep track of where I am which was pretty helpful to get hold of the errors. The most common error I face was due to not getting the conditions write which was actually the most challenging part for me. This project helped strengthen my understanding with codes and when and where to process them which would help in my future projects.
+
+## Testing
+
+I tested my project a couple of times in eclipse by running it to make sure that there were no errors and everything was being displayed. In the end I compiled and executed the code in console to make sure the grid was showing up.
+
+## Sources used
+
+https://docs.oracle.com/javase/7/docs/api/java.
